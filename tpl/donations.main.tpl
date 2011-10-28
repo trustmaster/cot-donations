@@ -59,13 +59,12 @@
 					<!-- BEGIN: TOP_TOTAL -->
 					<table class="cells" style="width:225px;">
 						<tr>
-							<td class="coltop" colspan="3">
+							<td class="coltop" colspan="2">
 								<h4>{PHP.L.donations_top_total_donations}</h4>
 							</td>
 						</tr>
 					<!-- BEGIN: LOOP -->
 						<tr>
-							<td>{DONATIONS_TOP_DATE}</td>
 							<td>{DONATIONS_TOP_USER}</td>
 							<td>{DONATIONS_TOP_AMOUNT}</td>
 						</tr>

@@ -4,8 +4,8 @@
 Code=donations
 Name=PayPal Donations
 Description=PayPal Donations System
-Version=1.1
-Date=2011-07-11
+Version=1.2
+Date=2011-10-28
 Author=Kilandor
 Copyright=Kilandor
 Notes=To use sandbox mode you need to goto https://developer.paypal.com/ and create the appropriate infomation. <br /><br /> These 3 tags can be used in any template, to provide links, Direct is the same donate button used on the plugin page, pageimg, links to the page with an image, pagetxt links to the page but as text. {PHP.out.donations_button_direct} {PHP.out.donations_button_pageimg} {PHP.out.donations_button_pagetxt}
