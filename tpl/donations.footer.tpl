@@ -1,0 +1,3 @@
+<!-- BEGIN: DONATIONS_FOOTER -->
+		</div>
+<!-- END: DONATIONS_FOOTER -->

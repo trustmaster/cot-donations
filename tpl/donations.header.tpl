@@ -1,0 +1,10 @@
+<!-- BEGIN: DONATIONS_HEADER -->
+<div style="padding:10px">
+	<h2>{DONATIONS_TITLE}</h2>
+		<h3>
+			<!-- BEGIN: DONATIONS_NAV_ADMIN -->
+				{DONATIONS_NAV_ADMIN}
+				{DONATIONS_NAV_ADMIN_ADD}
+			<!-- END: DONATIONS_NAV_ADMIN -->
+		</h3>
+<!-- END: DONATIONS_HEADER -->
