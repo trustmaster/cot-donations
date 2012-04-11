@@ -4,7 +4,7 @@
 Code=donations
 Name=PayPal Donations
 Description=PayPal Donations System
-Version=1.2
+Version=1.2.1
 Date=2011-10-28
 Author=Kilandor
 Copyright=Kilandor

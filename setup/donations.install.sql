@@ -17,5 +17,5 @@ CREATE TABLE IF NOT EXISTS `cot_donations_users` (
   `donation_username` varchar(255) NOT NULL,
   `donation_email` varchar(255) NOT NULL,
   `donation_totalamount` FLOAT NOT NULL,
-  PRIMARY KEY  (`donation_userid`)
+  PRIMARY KEY  (`donation_userid`, `donation_email`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
